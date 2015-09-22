@@ -13,5 +13,5 @@
 * 프로젝트 주제 (ex : 웹지오)
 
 
->본 문서는 .md 라는 확장자를 보면 알수 있듯이, 본 문서는 markdown 문법으로 작성 되었습니다. 
+>본 문서는 .md 라는 확장자를 보면 알수 있듯이, markdown 문법으로 작성 되었습니다. 
 >markdown 작성 가이드 [markdown 작성 가이드](http://scriptogr.am/myevan/post/markdown-syntax-guide-for-scriptogram)
