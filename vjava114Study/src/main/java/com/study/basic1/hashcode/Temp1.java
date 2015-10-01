@@ -12,8 +12,6 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
 public class Temp1 {
-
-
 	
 	public static void main(String[] args) {
 		
