@@ -15,9 +15,17 @@
 
 3.데이터베이스
 
+          1) Mysql
+          2) MongoDb
+
 4.was (ex : Tomcat)
 
+          1) Tomcat
+
 5.물리서버 (ex : pc, 물리서버 대여, AWS)
+
+          1) 금주 PC
+          2) 현국 PC
 
 6.프로젝트 주제 (ex : 웹지오)
 
